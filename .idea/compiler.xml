@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <file url="file://$PROJECT_DIR$/v2ch10/jaas/SimpleLoginModule.java" />
+      <file url="file://$PROJECT_DIR$/v2ch10/permissions/PermissionTest.java" />
+      <file url="file://$PROJECT_DIR$/v1ch13fx/draw/DrawTest.java" />
+      <file url="file://$PROJECT_DIR$/v1ch13fx/font/FontTest.java" />
+      <file url="file://$PROJECT_DIR$/v1ch13fx/menu/MenuTest.java" />
+      <file url="file://$PROJECT_DIR$/v1ch13fx/mouse/MouseTest.java" />
+      <file url="file://$PROJECT_DIR$/v1ch13fx/notHelloWorld/NotHelloWorld.java" />
+      <file url="file://$PROJECT_DIR$/v2ch08/set/SetTest.java" />
+      <file url="file://$PROJECT_DIR$/v1ch07/loggingfx/LoggingImageViewer.java" />
+      <file url="file://$PROJECT_DIR$/v1ch13fx/binding/BindingDemo1.java" />
+      <file url="file://$PROJECT_DIR$/v1ch13fx/binding/BindingDemo2.java" />
+      <file url="file://$PROJECT_DIR$/v1ch13fx/binding/BindingDemo3.java" />
+      <file url="file://$PROJECT_DIR$/v1ch13fx/choices/ChoiceTest.java" />
+      <file url="file://$PROJECT_DIR$/v1ch13fx/css/CSSDemo.java" />
+      <file url="file://$PROJECT_DIR$/v1ch13fx/dialogs/DialogDemo.java" />
+      <file url="file://$PROJECT_DIR$/v1ch13fx/event/EventTest.java" />
+      <file url="file://$PROJECT_DIR$/v1ch13fx/fancy/FancyControls.java" />
+      <file url="file://$PROJECT_DIR$/v1ch13fx/fxml/FXMLDemo.java" />
+      <file url="file://$PROJECT_DIR$/v1ch11/menu/MenuFrame.java" />
+      <file url="file://$PROJECT_DIR$/v2ch03/read/GridBagPane.java" />
+      <file url="file://$PROJECT_DIR$/v2ch10/signed/FileReadApplet.java" />
+      <file url="file://$PROJECT_DIR$/v1ch08/genericAlgorithms/GenericAlgorithms.java" />
+      <file url="file://$PROJECT_DIR$/v1ch13fx/gridPane/GridPaneDemo.java" />
+      <file url="file://$PROJECT_DIR$/v1ch13fx/text/TextControlTest.java" />
+      <file url="file://$PROJECT_DIR$/v1ch13fx/uitask/TaskDemo.java" />
+      <file url="file://$PROJECT_DIR$/v2ch03/read/GridBagTest.java" />
+      <file url="file://$PROJECT_DIR$/v2ch08/bytecodeAnnotations/EntryLogger.java" />
+      <file url="file://$PROJECT_DIR$/v2ch08/bytecodeAnnotations/EntryLoggingAgent.java" />
+      <file url="file://$PROJECT_DIR$/v1ch11/menu/MenuTest.java" />
+      <file url="file://$PROJECT_DIR$/v1ch08/limitations/NoGenericArray.java" />
+      <file url="file://$PROJECT_DIR$/v1ch08/pair2/PairTest2.java" />
+      <file url="file://$PROJECT_DIR$/v1ch02/FXImageViewer/ImageViewer.java" />
+      <file url="file://$PROJECT_DIR$/v1ch04/EmployeeTest/EmployeeTest.java" />
+      <file url="file://$PROJECT_DIR$/v1ch04/ParamTest/ParamTest.java" />
+      <file url="file://$PROJECT_DIR$/v1ch04/StaticTest/StaticTest.java" />
+      <file url="file://$PROJECT_DIR$/v1ch04/PackageTest/PackageTest.java" />
+      <file url="file://$PROJECT_DIR$/../JavaStudy/src/v2ch01/CountE.java" />
+    </excludeFromCompile>
+  </component>
+</project>
